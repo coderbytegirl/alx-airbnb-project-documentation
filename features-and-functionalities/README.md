@@ -65,5 +65,7 @@ This document outlines the key backend features required for building the Airbnb
 ---
 
 ## Diagram
+![airbnb clone](https://github.com/user-attachments/assets/a2b203b3-c05a-4f43-8252-4e0a5bcb5272)
+
 
 
